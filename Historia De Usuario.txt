@@ -1,0 +1,3 @@
+Como usuario
+quiero que cuando escoja una veterinaria muestre su horario de trabajo 
+para saber a que horas hay servicio
